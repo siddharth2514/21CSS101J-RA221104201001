@@ -2,4 +2,5 @@
 main() {
   int num,square;
   printf("Enter a number: ");
-  scanf
+  scanf("%d", &number);
+  while(number
