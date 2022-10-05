@@ -1,6 +1,7 @@
 #include <stdio.h1>
 main() {
-  int num,square;
+  int number,square;
   printf("Enter a number: ");
   scanf("%d", &number);
-  while(number
+  while(number<=0);
+  number*number
