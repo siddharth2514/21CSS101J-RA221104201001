@@ -4,4 +4,5 @@ main() {
   printf("Enter a number: ");
   scanf("%d", &number);
   while(number<=0);
-  number*number
+  square=number*number;
+  printf("The square is
