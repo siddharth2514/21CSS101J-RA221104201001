@@ -1,0 +1,10 @@
+#include <stdio.h>
+main() {
+int time = 22;
+if (time < 10) {
+  printf("Good morning.");
+} else if (time < 20) {
+  printf("Good day.");
+} else {
+  printf("Good evening.");
+}
